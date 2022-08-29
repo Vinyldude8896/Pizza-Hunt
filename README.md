@@ -2,7 +2,7 @@
 
 ### Pizza Hunt was created to share pizza recipe's and be able to have discussions on these recipes.
 
-### When you load the ap, you can see other user's pizza recipes. You can reply to those recipes, or comment on previous replies, or you can create your own Pizza recipe and follow the discussion!
+### When you load the app, you can see other user's pizza recipes. You can reply to those recipes, or comment on previous replies, or you can create your own Pizza recipe and follow the discussion!
 
 
 ### badges
